@@ -11,15 +11,21 @@
 | 18/0103431  |  João Victor Valadão |
 
 ## Sobre 
-Nesse projeto iremos resolver questões de Online Judges usando Greed Algorithms
+Nesse projeto iremos resolver questões de Online Judges usando Greed Algorithms.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+<center>
+
+![accepted_SPOJ](assets/scheduling.png)
+<figcaption>Figura 1: Accepted no SPOJ</figcaption>
+
+</center>
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C/python<br>
+**Framework**: não existe<br>
+Poder rodar programas em C e ter python3 instalado.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
