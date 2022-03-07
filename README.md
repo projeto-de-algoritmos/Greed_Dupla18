@@ -21,11 +21,17 @@ Nesse projeto iremos resolver questões de Online Judges usando Greed Algorithms
 ![accepted_SPOJ](assets/scheduling.png)
 <figcaption>Figura 1: Accepted Questão 1</figcaption>
 
+</br>
+
 ![accepted_SPOJ](assets/cookiesAccepted.png)
 <figcaption>Figura 2: Accepted Questão 2</figcaption>
 
+</br>
+
 ![accepted_SPOJ](assets/flowersAccepted.png)
 <figcaption>Figura 3: Accepted Questão 3</figcaption>
+
+</br>
 
 </center>
 
