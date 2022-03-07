@@ -43,16 +43,21 @@ Poder rodar programas em C e ter Java instalado.
 ## Uso 
 Execute a questão 1 com os seguintes comandos:
 ```jsx
+Navegue até o diretório que o arquivo se encontra
 gcc scheduling.c
 ./a.out
 ```
 Execute a questão 2 com os seguintes comandos:
 ```jsx
-Botão Run na IDE
+Navegue até o diretório que o arquivo se encontra
+javac .\Solution.java
+java Solution
 ```
 Execute a questão 3 com os seguintes comandos:
 ```jsx
-Botão Run na IDE
+Navegue até o diretório que o arquivo se encontra
+javac .\Solution.java
+java Solution
 ```
 
 

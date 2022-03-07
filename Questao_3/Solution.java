@@ -1,5 +1,17 @@
-class Solution {
-    public boolean canPlaceFlowers(int[] flowerbed, int n) {
+public class Solution {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        
+        int[] flowerbed = {1,0,0,0,1}; //Caso deseje, modifique aqui a lista com o campo de flores.
+        int quantidade_flores = 1; //Caso deseje, modifique aqui a quantidade de flores.
+
+        System.out.println("Resposta:\n");
+        System.out.println(canPlaceFlowers(flowerbed,quantidade_flores));
+
+	}
+	
+    public static boolean canPlaceFlowers(int[] flowerbed, int n) {
         int tam = flowerbed.length;
         int[] lista = new int [tam+2];
         
@@ -20,6 +32,5 @@ class Solution {
                 return true;
         }
         return false;
-
     }
 }
