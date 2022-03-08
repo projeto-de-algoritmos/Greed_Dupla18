@@ -14,6 +14,12 @@
 ## Sobre 
 Nesse projeto iremos resolver questões de Online Judges usando Greed Algorithms.
 
+## Apresentação
+
+Link do vídeo da apresentação:
+
+[![Vídeo do projeto](https://img.youtube.com/vi/V98-hE-wLLE/0.jpg)](https://www.youtube.com/watch?v=nhLl3Y-iSHM)
+
 ## Screenshots
 
 <center>
